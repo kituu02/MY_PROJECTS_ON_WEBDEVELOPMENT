@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/kituu02/MY_PROJECTS_ON_WEB
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+https://kituu02.github.io/MY_PROJECTS_ON_WEBDEVELOPMENT/Dicee%20Challenge%20-%20Starting%20Files/Dicee%20Challenge%20-%20Starting%20Files/dicee.html
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
