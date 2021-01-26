@@ -1,0 +1,94 @@
+body {
+    background-color: (--very-light-gray);
+    font-family:  'Poppins', sans-serif;
+}
+
+img {
+    height:64px;
+    width:64px;
+    float:right;
+    clear:both;
+}
+p {
+    font-family: 'Exo', sans-serif;
+    font-weight: 600;
+    line-height: 2;
+}
+h1 {
+    padding:0;
+    
+}
+h2 {
+    font-weight: normal;
+    font-size: 162%;
+    padding: 0;
+    
+}
+h3 {
+    font-family: 'Patrick Hand', cursive;
+    font-weight: 900;
+}
+.top-box {
+    margin-top:100px;
+    text-align:center;
+    font-family: 'Questrial', sans-serif;
+}
+.middle-box {
+    position : relative;
+}
+.supervisor {
+    border-top-style: solid;
+    border-top-color: cyan;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:280px;
+    padding: 10px 10px ;
+    margin: 20px auto;
+    height: 200;
+    position:absolute;
+    margin:auto 600px;
+} 
+.bulider {
+    border-top-style: solid;
+    border-top-color: red;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:280px;
+    padding: 10px 10px ;
+    margin:20px auto;
+    height: 200;
+    position:absolute;
+    margin:150px ;
+    margin-left: 250px;
+}
+.karma {
+    border-top-style: solid;
+    border-top-color: yellow;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:280px;
+    padding: 10px 10px ;
+    margin:20px auto;
+    height: 200;
+    position:absolute;
+    margin:300px;
+    margin-left: 600px;
+}
+.calculator {
+    border-top-style: solid;
+    border-top-color:green;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:280px;
+    padding: 10px 10px ;
+    margin:20px auto;
+    height: 200;
+    position:absolute;
+    margin: 150px;
+    margin-left: 950px;
+    
+}
+.ai{
+    width:50%;
+    margin: auto;
+}
