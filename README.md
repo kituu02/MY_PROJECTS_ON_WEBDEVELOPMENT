@@ -34,10 +34,15 @@
             <h3>Design & Development</h3>
             <p>I started coding when I was 19 years old.Everyday I learn new things.Iam sure that in Future I will become an expert in Designing Websites and Web Applications.</p>
           </div>
-          <div class="skill-row">
-            <img class="chilles-img" src="images/chili-pepper.png" alt="">
-            <h3>Spicy Challenge</h3>
-            <p>My Greatest skill is actually having spicy food.Dont even dare to challenge me on this.I usually eat 5-6 chilles daily, it's kind of a favourite snack for me. </p>
+            <div class="skill-row">
+            <img class="chilles-img" src="images/web-development.png" alt="">
+            <h3>My Mini Projects</h3>
+            <p>Click on the below Links to view MY Mini Projects<br>
+              <a href="https://kituu02.github.io/MY_PROJECTS_ON_WEBDEVELOPMENT/Simon%20Game%20Challenge%20Starting%20Files/index.html"target="_blank">SIMON GAME</a><br>
+              <a href="https://kituu02.github.io/MY_PROJECTS_ON_WEBDEVELOPMENT/Dicee%20Challenge%20-%20Starting%20Files/Dicee%20Challenge%20-%20Starting%20Files/dicee.html"target="_blank">DICE</a><br>
+              <a href="https://kituu02.github.io/MY_PROJECTS_ON_WEBDEVELOPMENT//Drum%20Kit%20Starting%20Files/index.html"target="_blank">INSTRUMENTS</a><br>
+              <a href="https://kituu02.github.io/MY_PROJECTS_ON_WEBDEVELOPMENT/practise1/index.html"target="_blank">PRACTISE 1</a><br>
+              <a href="https://kituu02.github.io/MY_PROJECTS_ON_WEBDEVELOPMENT/TinDog-Start-master/index.html"target="_blank">TINDOG</a><br></p>
           </div>
         </div>
         <hr>
